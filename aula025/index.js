@@ -1,6 +1,12 @@
+// Regras das condicionais
+
 // Vai checar as condições de cima para baixo e parar na primeira verdadeiraq eu ele encontrar, caso contrário vai execular o else ou não fazer nada e pular para o resto do código.
 
 const numero = 10;
+
+if (numero <= 10) {
+    console.log('O número é menor ou igual a 10.')
+}
 
 if (numero >= 0 && numero <= 5) {
     console.log('Sim, o número está entre 0 e 5.');
