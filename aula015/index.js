@@ -1,3 +1,5 @@
+// math
+
 //let num1 = 9.54578;
 //let num2 = Math.floor(num1); // arredenda pra baixo
 //let num2 = Math.ceil(num1); // arredonda pra cima
