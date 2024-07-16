@@ -1,3 +1,5 @@
+// return em false e true
+
 /*
 && -> false && true -> vai retornar o último valor verdadeiro ou o último valor falso
 || -> true || false -> vai retornar o primeiro valor verdadeiro ou o último valor falso
