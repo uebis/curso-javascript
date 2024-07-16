@@ -1,5 +1,6 @@
 /*
-Operadores Lógicos
+Operadores Lógicos:
+
 && -> AND -> E -> Todsa as expressões precisam ser verdadeiras para retornar true
 || -> OR -> OU
 ! -> NÃO -> NOT -> NÃO
