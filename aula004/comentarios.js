@@ -1,3 +1,5 @@
+// Comentários
+
 // E escrever um comentário longo
 console.log('Olá Mundo!'); // Aquit tem outro comentário
 console.log('Linha 1');
