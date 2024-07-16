@@ -1,3 +1,5 @@
+// Strings
+
 console.log('Luiz "Otávio"'); // String = Texto
 console.log("Luiz 'Otávio'");
 console.log(`'Luiz' "Otávio"`);
