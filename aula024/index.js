@@ -1,3 +1,5 @@
+// if, else e else if
+
 /*
 Entre 0 - 11 - Bom dia!
 Entre 12 e 17 - Boa Tarde!
