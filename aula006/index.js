@@ -1,3 +1,5 @@
+// Variáveis
+
 let nome = 'Henrique'
 
 console.log(nome, 'nasceu em 1984.');
