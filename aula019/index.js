@@ -1,3 +1,5 @@
+// Copiar por referência e spread
+
 /*
 Primitivos (imuntáveis) - string, boolean, undefined, null (bigint, symbol) - Valores copiados
 
