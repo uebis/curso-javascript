@@ -1,3 +1,5 @@
+// funções
+
 /*
 function saudacao(nome) {
     return `Bom dia, ${nome}!`;
