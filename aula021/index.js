@@ -1,5 +1,6 @@
 /*
-Operadores de comparação
+Operadores de comparação:
+
 > maior que
 >= maior que ou igual que
 < menor que
