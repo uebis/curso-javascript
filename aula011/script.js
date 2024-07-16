@@ -1,3 +1,5 @@
+// transformar string em número
+
 let num1 = prompt('Digite um número:');
 let num2 = prompt('Digite outro número:')
 
