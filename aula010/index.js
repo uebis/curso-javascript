@@ -1,3 +1,5 @@
+//Operadores
+
 /**
  *  Aritiméticos
  *  + Adição / Concatenação
