@@ -1,3 +1,5 @@
+// Arrays
+
 //            0123456789
 const nome = 'Luiz Otávio'
 console.log(nome[0]);
