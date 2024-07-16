@@ -1,3 +1,5 @@
+// exercício
+
 const num = Number(prompt('Digite um número'));
 
 const numeroTitulo = document.getElementById("dado");
