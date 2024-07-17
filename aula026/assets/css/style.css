@@ -1,0 +1,105 @@
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans:wght@700&display=swap');
+
+
+:root {
+    --primary-color: rgb(13, 106, 134);
+    --primary-color-darker: rgb(7, 59, 74);
+    --primary-color-lighter: rgb(59, 187, 222);
+}
+
+* {
+    box-sizing: border-box;
+    outline: 0;
+}
+
+body {
+    margin: 0;
+    padding: 0;
+    background: var(--primary-color);
+    font-family: 'Open sans', sans-serif;
+    font-size: 1.3em;
+    line-height: 1.5em;
+}
+
+.container {
+    max-width: 640px;
+    margin: 50px auto;
+    background: #fff;
+    padding: 20px;
+    border-radius: 10px;
+}
+
+h1 {
+    text-align: center;
+}
+
+.table-container {
+    text-align: center;
+    outline-width: 1px;
+    outline-color: black;
+    outline-style: solid;
+    padding: 20px;
+    margin: auto;
+}
+
+table {
+    width: 500px; /* Ajuste a largura para que as divs caibam lado a lado */
+    margin-left: 25px;
+}
+
+h2 {
+    font-size: 1.1em;
+}
+
+.form-container {
+    padding-top: 30px;
+}
+
+form input, form label, form button {
+    display: block;
+    width: 100%;
+    margin-bottom: 10px;
+}
+
+form input {
+    font-size: 24px;
+    height: 50px;
+    padding: 0 20px;
+}
+
+form input:focus {
+    outline: 1px solid var(--primary-color)
+}
+
+form button {
+    border: none;
+    margin-top: 30px;
+    background: var(--primary-color);
+    color: #fff;
+    font-size: 18px;
+    font-weight: 700;
+    height: 50px;
+    cursor: pointer;
+}
+
+form button:hover {
+    background: var(--primary-color-darker);
+}
+
+form button:active {
+    background: var(--primary-color-lighter)
+}
+
+#mensagem > P {
+    padding: 10px;
+    background: rgb(175, 227, 241);
+}
+
+.paragrafo-resultado, .bad {
+    background: rgb(109, 255, 182);
+}
+
+.bad {
+    background: rgb(207, 121, 121);
+}
